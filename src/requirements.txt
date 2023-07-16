@@ -1,0 +1,10 @@
+Flask==2.1.0
+gunicorn==19.9.0
+selenium==3.141.0
+chromedriver-binary==77.0.3865.40.0
+pandas
+google
+google-cloud-bigquery
+webdriver-manager
+webdriver_manager
+unidecode
